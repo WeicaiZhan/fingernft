@@ -40,7 +40,7 @@ admin  12345678
 | 流动性质押版 | 包含盲盒+拍卖版; 1. LP质押: 所有swap系统上的lp代币质押奖励平台币; 2. Pool质押: 质押平台币，获取第三方币种;  3. NFT质押: 设置指定NFT合约或tokenid参与质押，奖励指定的币种。 |
 | 区块链游戏(GameFi) 版| 包含流动性质押版; 1. GameFi: 任意游戏资产可对接平台，通过平台授权登录游戏；2.在平台上充值资产到游戏方、或从游戏方提现资产。 |
 
-![商业版](https://cdn.fingerchar.com/images/versions.png)
+![商业版](https://cdn.fingerchar.com/images/versions_en.png)
 
 ### 联系我们
 * 电话: 13459461911
